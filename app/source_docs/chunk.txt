@@ -1,10 +1,9 @@
 Chapter 1: Steps in Character Creation 
 
 
-class as a sort of stereotype. For instance, all war¬ 
-riors in books and movies have some features in 
+class as a sort of stereotype. For instance, all warriors in books and movies have some features in 
 common and those specific features, translated 
-into the D&D® game terms, are what make up 
+into the D&D game terms, are what make up 
 the fighter character class. 
 
 The player character (PC) classes available for 
@@ -23,9 +22,7 @@ be represented by a single character class.
 Types of Character Classes 
 
 Most characters will be humans. In most D&D 
-game campaigns, humans are the most wide¬ 
-spread of all intelligent beings. Any new charac¬ 
-ter can belong to one of the human classes 
+game campaigns, humans are the most widespread of all intelligent beings. Any new character can belong to one of the human classes 
 (cleric, fighter, magic-user, thief), regardless of 
 his ability scores. 
 
@@ -96,8 +93,7 @@ Druid
 
 Wisdom 
 
-Neutral align¬ 
-ment, obtain 
+Neutral alignment, obtain 
 
 9th level as a 
 cleric 
@@ -114,30 +110,21 @@ Dexterity 13
 
 Demihuman characters (dwarf, elf, and half- 
 ling) should be a little less common: these races 
-are supposed to be somewhat reclusive and mys¬ 
-terious. They are known as "demihumans" be¬ 
-cause they are so similar to humans. Each 
-demihuman character class has specific ability re¬ 
-quirements. If a newly created character doesn't 
-have high enough scores in some specific abili¬ 
-ties, he can't belong to the demihuman classes. 
+are supposed to be somewhat reclusive and mysterious. They are known as "demihumans" because they are so similar to humans. Each 
+demihuman character class has specific ability requirements. If a newly created character doesn't 
+have high enough scores in some specific abilities, he can't belong to the demihuman classes. 
 
-The special character classes (druid and mys¬ 
-tic) technically belong in the set of human char¬ 
-acter classes, but they have such stringent 
+The special character classes (druid and mystic) technically belong in the set of human character classes, but they have such stringent 
 requirements and unusual guidelines that 
 they're set aside for you to look at separately. 
-The DM might not want to use them in his cam¬ 
-paign; it's easier for him to make and enforce 
+The DM might not want to use them in his campaign; it's easier for him to make and enforce 
 this decision if they're set aside. 
 
 Descriptions of Character 
 Classes 
 
-A Cleric is a human character who has dedi¬ 
-cated his life to a great and worthy cause. Often, 
-this cause is the cleric's alignment. A Lawful cler¬ 
-ic, for example, would be dedicated to spreading 
+A Cleric is a human character who has dedicated his life to a great and worthy cause. Often, 
+this cause is the cleric's alignment. A Lawful cleric, for example, would be dedicated to spreading 
 
 
 law and order throughout the campaign world. 
@@ -146,8 +133,7 @@ many weapons and armor types as a fighter. The
 cleric's prime requisite is his Wisdom. 
 
 A Fighter is a character whose main skill is his 
-prowess at arms. A fighter can be a heavily ar¬ 
-mored knight or a lightly armored swashbuckler, 
+prowess at arms. A fighter can be a heavily armored knight or a lightly armored swashbuckler, 
 but it's his extraordinary skill in combat that 
 makes him special. In the game, a fighter's 
 prime requisite is his Strength. 
@@ -158,20 +144,17 @@ ability, and in the early part of his career he has
 little in the way of magical ability either. But as 
 he gains in experience, he becomes a powerful 
 character and can wield powerful magical spells. 
-The magic-user's prime requisite is his Intelli¬ 
-gence. 
+The magic-user's prime requisite is his Intelligence. 
 
 A Thief is a character who has spying abilities. 
 Whether he actually makes his living stealing 
-from other people, he has many skills appropri¬ 
-ate to that livelihood. He can move stealthily, 
+from other people, he has many skills appropriate to that livelihood. He can move stealthily, 
 climb sheer surfaces, pick locks, and so forth. He 
 has combat abilities better than a magic-user's, 
 but he's not a strong combatant. The thiefs 
 prime requisite is his Dexterity. 
 
-A Dwarf is a sturdy, squat demihuman. He re¬ 
-sembles the fighter in many details, but has 
+A Dwarf is a sturdy, squat demihuman. He resembles the fighter in many details, but has 
 many special abilities—and special restrictions— 
 that set him apart from human fighters. The 
 dwarfs prime requisite is his Strength. Also, a 
@@ -187,43 +170,33 @@ magical ability of a human magic-user, but he
 does have most of the abilities of both classes. 
 He has other special abilities and restrictions that 
 set him apart from the human classes. The elf 
-has two prime requisites: Strength and Intelli¬ 
-gence, and the Intelligence score must be 9 or 
-more. If the character you're creating has an In¬ 
-telligence of 8 or less, he cannot be an elf. 
+has two prime requisites: Strength and Intelligence, and the Intelligence score must be 9 or 
+more. If the character you're creating has an Intelligence of 8 or less, he cannot be an elf. 
 
 A Halfling is a small demihuman. He has 
 many abilities similar to a fighter, but he is also 
 noted for his ability in woodsmanship. He's not 
 as tough as a fighter, and he has special abilities 
 and restrictions that set him apart from the 
-fighter class. The halfling has two prime requi¬ 
-sites: Strength and Dexterity, and the Dexterity 
-score must be 9 or more. Also, a halfling charac¬ 
-ter must have a score of 9 or better for his Consti¬ 
-tution. 
+fighter class. The halfling has two prime requisites: Strength and Dexterity, and the Dexterity 
+score must be 9 or more. Also, a halfling character must have a score of 9 or better for his Constitution. 
 
-A Druid is a special type of spellcaster who de¬ 
-votes himself to the needs and preservation of 
+A Druid is a special type of spellcaster who devotes himself to the needs and preservation of 
 Nature. However, you can't start a character off 
 as a druid. A druid character must start off as a 
-cleric—in fact, as a cleric of the Neutral align¬ 
-ment (alignments are discussed in Step 9, 
+cleric—in fact, as a cleric of the Neutral alignment (alignments are discussed in Step 9, 
 "Choose Character Alignment")—and earn a 
 lot of experience (up to 9th experience level) as a 
 cleric. Only at that point can he become a druid. 
 
 A Mystic is a type of warrior-monk. He lives a 
 monastic life, devotes himself to philosophy and 
-the mastery of his physical body, and trains him¬ 
-self to become a master of unarmed fighting. 
+the mastery of his physical body, and trains himself to become a master of unarmed fighting. 
 Mystics are not appropriate to all campaigns, so 
-the DM has the option of refusing to allow mys¬ 
-tics in his world. The mystic's prime requisites 
+the DM has the option of refusing to allow mystics in his world. The mystic's prime requisites 
 
 
-are Strength and Dexterity. Also, a mystic char¬ 
-acter must have scores of 13 or better in both his 
+are Strength and Dexterity. Also, a mystic character must have scores of 13 or better in both his 
 Wisdom and Dexterity abilities. 
 
 All these character classes will be described in 
@@ -231,6 +204,5 @@ greater detail in Chapter 2. If you don't yet
 know enough about these classes to decide what 
 your new character should be, you can skip 
 ahead to Chapter 2, then return here and make 
-your choice. When you've decided what charac¬ 
-ter class your character will be, continue with the 
+your choice. When you've decided what character class your character will be, continue with the 
 next step. 

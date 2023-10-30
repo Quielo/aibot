@@ -13,6 +13,8 @@ def divide_text_into_chunks(filename, chunk_size=300, start=0):
                 continue
             elif char == '\n':
                 chunk += '    '  # Replace line break with a triple space
+            elif char == '¬':  # Exclude the "¬" character
+                chunk += ''
             else:
                 chunk += char
 
