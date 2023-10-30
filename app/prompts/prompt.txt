@@ -1,0 +1,10 @@
+'''
+I'd like to ask you a series of questions based on a lengthy text, 
+which I'll divide into distinct sections. 
+Each new section will be clearly labeled with "chunk 1," "chunk 2," "chunk 3," and so on. 
+When a prompt begins with "chunk," 
+I only need a "Noted" response from you until 
+I introduce the last section using the keyword "end-of-prompt:" This way, 
+I can ask my questions effectively. 
+Please retain all the information from these sections to provide accurate responses.
+'''
