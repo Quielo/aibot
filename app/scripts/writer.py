@@ -1,7 +1,8 @@
 from reader import divide_text_into_chunks
 import os
 
-def main():
+# def main():
+def output_chunks():
     
     # chunk_list = []
 
@@ -22,5 +23,5 @@ def main():
             chunk_output = print(f"Chunk {i + 1}:\n{chunk}\n")
             return chunk_output
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()
