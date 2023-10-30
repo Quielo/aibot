@@ -1,10 +1,8 @@
-from reader import divide_text_into_chunks
+from scripts.reader import divide_text_into_chunks
 import os
 
-# def main():
 def output_chunks():
-    
-    # chunk_list = []
+    chunk_list = []  # Create a list to store the chunks
 
     relative_path = 'Work/projects/python/prod/aibot/app/source_docs'
     folder_path = os.path.expanduser(f'~/{relative_path}')
@@ -19,9 +17,8 @@ def output_chunks():
     for filename in file_list:
         chunks = divide_text_into_chunks(filename)
         for i, chunk in enumerate(chunks):
-            # chunk_list.append(chunk)
-            chunk_output = print(f"Chunk {i + 1}:\n{chunk}\n")
-            return chunk_output
+            chunk_output = f"Chunk {i + 1}:   {chunk}   "
+            print(chunk_output)
+            chunk_list.append(chunk_output)  # Append the chunk to the list
 
-# if __name__ == '__main__':
-#     main()
+    return chunk_list  # Return the list of chunk_output strings
