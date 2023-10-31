@@ -1,4 +1,5 @@
 import os
+import string
 
 def format_text_file(file_path):
 
@@ -14,18 +15,18 @@ def format_text_file(file_path):
             
     for filename in file_list:
         try:
-        # Open the file for reading
+            # Open the file for reading
             with open(filename, 'r') as file:
                 text = file.read()
 
-        # Remove the "¬" character
-            updated_text = text.replace("¬ ", "")
+            # Remove non-printable characters
+            printable_text = ''.join(filter(lambda x: x in string.printable, text))
 
-        # Open the file for writing and save the updated text
+            # Open the file for writing and save the updated text
             with open(filename, 'w') as file:
-                file.write(updated_text)
+                file.write(printable_text)
 
-                print(f'File "{filename}" has been formatted and saved.')
+            print(f'File "{filename}" has been formatted and saved.')
 
         except FileNotFoundError:
             print(f'File "{filename}" not found.')
