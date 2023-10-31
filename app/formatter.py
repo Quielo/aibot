@@ -31,5 +31,5 @@ def format_text_file(file_path):
             print(f'File "{filename}" not found.')
 
 if __name__ == "__main__":
-    filename = "chunky.txt"  # Replace with your file's path
+    filename = "~/source_docs/chunky.txt"  # Replace with your file's path
     format_text_file(filename)
